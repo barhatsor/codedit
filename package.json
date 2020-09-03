@@ -1,0 +1,22 @@
+{
+  "name": "codedit",
+  "version": "1.0.2",
+  "description": "Library for creating interactive code snippets.",
+  "main": "codedit.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "edit",
+    "easy",
+    "editor",
+    "snippet",
+    "html",
+    "embeded",
+    "inline",
+    "flexible"
+  ],
+  "author": "Bar Hatsor",
+  "license": "MIT"
+}
