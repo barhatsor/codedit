@@ -3,8 +3,7 @@ Codedit is a javascript library for creating interactive code snippets.
 
 - **Code with a single element:** just add a `<cd>` tag in your HTML and it'll magically turn into editable code, no Javascript needed.
 - **Everything you'd expect from a code editor:** Codedit autocompletes stuff like brackets and tabs. It also detects your code's language and highlights it accordingly.
-- **Flexible and stylable:** Want it dark? No problem. Just add `background: black`: You can easily change anything in Codedit.  
-No pesky iframes, just pure HTML.
+- **Flexible and stylable:** Want it dark? No problem. Just add `background: black`: You can easily change anything in Codedit. No pesky iframes, just pure HTML.
 
 ## Get started
 Simply add a `<script>` tag to the head of your HTML.  
