@@ -1,6 +1,6 @@
 {
   "name": "codedit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Library for creating interactive code snippets.",
   "main": "codedit.min.js",
   "scripts": {
