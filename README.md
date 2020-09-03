@@ -9,7 +9,7 @@ Codedit is a javascript library for creating interactive code snippets.
 Simply add a `<script>` tag to the head of your HTML.  
 
 ```html
-<script src="https://unpkg.com/codedit@1.0.2/codedit.min.js"></script>
+<script src="https://unpkg.com/codedit@1.0.3/codedit.min.js"></script>
 ```  
 
 That's it! Throw a codedit in your HTML and you're all set.
