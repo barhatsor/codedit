@@ -1,4 +1,4 @@
-# Codedit [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![npm version](https://img.shields.io/npm/v/codedit.svg?style=flat)](https://www.npmjs.com/package/codedit)  
+# Codeit [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![npm version](https://img.shields.io/npm/v/codedit.svg?style=flat)](https://www.npmjs.com/package/codedit)  
 Codedit is a javascript library for creating interactive code snippets. [See it live](https://codedit.berryscript.com/live).
 
 - **Code with a single element:** just add a `<cd>` tag in your HTML and it'll automagically turn into editable code, no Javascript needed.
@@ -42,7 +42,7 @@ Some useful methods are `split()`, `indexOf()` and `replace()`.
 </cd>
 ```
 
-### See live examples [on the website](https://codedit.berryscript.com/).
+### See live examples [on the website](https://codeit.berryscript.com/).
 
 ## License
 
