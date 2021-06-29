@@ -61,6 +61,11 @@ codedits.forEach(codedit => {
           element.addEventListener(event, handler, false);
       };
   }
+    
+  codedit.setValue = (code) => {
+    input.value = code;
+    update();
+  }
 
   function update() {
     input.style.height = 'auto';
